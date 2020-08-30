@@ -11,7 +11,7 @@ services:
 
 env:
   global:
-    - DOCKERHUB="ruok5/mods"
+    - DOCKERHUB="ruok5/lsio-mods"
     - BASEIMAGE="openssh-server"
     - MODNAME="ncat"
 
